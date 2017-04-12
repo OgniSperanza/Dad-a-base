@@ -5,8 +5,7 @@ Dad-a-base: The first and only stop for safe and reliable, ad-free, child care i
 Dad-a-base...
 
 # Technology
-Android Development:  Undecided
-iOS Development:      Undecided
+Mobile Developmnent:  Xamarin
 Web Development:      Undecided
 Desktop Development:  Eletron
 
