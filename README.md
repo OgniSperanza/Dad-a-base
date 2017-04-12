@@ -7,5 +7,5 @@ Dad-a-base...
 # Technology
 * Mobile Developmnent:  Xamarin
 * Web Development:      ASP.NET MVC (?)
-* Desktop Development:  Eletron (?)
+* Desktop Development:  Eletron (?) / C# (able to reuse code ^)
 
