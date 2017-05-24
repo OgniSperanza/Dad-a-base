@@ -14,6 +14,6 @@ Dad-a-base seeks to provide a free tool to parents to quickly check the safety a
  
 # Technology
 * Mobile Developmnent:  Xamarin
-* Web Development:      ASP.NET MVC (?)
+* Web Development:      (?)
 * Desktop Development:  Eletron (?) / C# (able to reuse code ^)
 
