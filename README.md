@@ -16,4 +16,6 @@ Dad-a-base seeks to provide a free tool to parents to quickly check the safety a
 * Mobile Developmnent:  Xamarin
 * Web Development:      (?)
 * Desktop Development:  Eletron (?) / C# (able to reuse code ^)
+* Project Management:   Trello
+* Chat/Notifications:   Slack
 
